@@ -1,0 +1,11 @@
+C:\Projects\R&D\LinuxAppForContainer\LinuxAppForContainer\obj\Debug\netcoreapp2.0\LinuxAppForContainer.csproj.CoreCompileInputs.cache
+C:\Projects\R&D\LinuxAppForContainer\LinuxAppForContainer\obj\Debug\netcoreapp2.0\LinuxAppForContainer.AssemblyInfoInputs.cache
+C:\Projects\R&D\LinuxAppForContainer\LinuxAppForContainer\obj\Debug\netcoreapp2.0\LinuxAppForContainer.AssemblyInfo.cs
+C:\Projects\R&D\LinuxAppForContainer\LinuxAppForContainer\bin\Debug\netcoreapp2.0\LinuxAppForContainer.deps.json
+C:\Projects\R&D\LinuxAppForContainer\LinuxAppForContainer\bin\Debug\netcoreapp2.0\LinuxAppForContainer.runtimeconfig.json
+C:\Projects\R&D\LinuxAppForContainer\LinuxAppForContainer\bin\Debug\netcoreapp2.0\LinuxAppForContainer.runtimeconfig.dev.json
+C:\Projects\R&D\LinuxAppForContainer\LinuxAppForContainer\bin\Debug\netcoreapp2.0\LinuxAppForContainer.dll
+C:\Projects\R&D\LinuxAppForContainer\LinuxAppForContainer\bin\Debug\netcoreapp2.0\LinuxAppForContainer.pdb
+C:\Projects\R&D\LinuxAppForContainer\LinuxAppForContainer\obj\Debug\netcoreapp2.0\LinuxAppForContainer.csprojAssemblyReference.cache
+C:\Projects\R&D\LinuxAppForContainer\LinuxAppForContainer\obj\Debug\netcoreapp2.0\LinuxAppForContainer.dll
+C:\Projects\R&D\LinuxAppForContainer\LinuxAppForContainer\obj\Debug\netcoreapp2.0\LinuxAppForContainer.pdb
