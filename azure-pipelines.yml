@@ -27,12 +27,3 @@ stages:
         tags: |
           $(tag)
           
-# Docker
-- task: DockerCompose@0
-  inputs:
-    containerregistrytype: 'Azure Container Registry'
-    azureSubscription: 's00502azureaccess'
-    azureContainerRegistry: '{"loginServer":"expsettingregistry.azurecr.io", "id" : "/subscriptions/4b9db22b-fc4d-4b27-ab12-1ee8f9d7a85e/resourceGroups/s00502nprgExperienceSettings/providers/Microsoft.ContainerRegistry/registries/expsettingregistry"}'
-    dockerComposeFile: '**/docker-compose.yml'
-    action: 'Push services'
-    includeLatestTag: true
